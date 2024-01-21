@@ -53,3 +53,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/lucas-honda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+<div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasEHonda&bg_color=1a1b27&color=38bdae&line=2b3752&point=638fda&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
